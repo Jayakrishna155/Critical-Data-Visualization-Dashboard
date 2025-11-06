@@ -49,11 +49,9 @@ See PERFORMANCE.md for detailed benchmarks and techniques.
 - Memory metrics require Chrome (Performance.memory API)
 
 ## Screenshots
+<img width="1440" height="732" alt="Screenshot 2025-11-06 at 5 31 24 PM" src="https://github.com/user-attachments/assets/e51bc213-0e09-447e-8021-b654a9254b5b" />
 
-Add screenshots of the dashboard in different states (real-time updating, stress mode, mobile).
+<img width="1440" height="659" alt="Screenshot 2025-11-06 at 5 31 35 PM" src="https://github.com/user-attachments/assets/6407bab0-9c23-4533-ac40-00a3a39ba7cb" />
 
-## Environment
-
-No required `.env`. All data is generated client-side. API route simulates batches.
 
 
